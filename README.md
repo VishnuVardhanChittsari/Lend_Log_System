@@ -44,19 +44,28 @@
 ---
 
 ### 📸 Screenshots
-
 #### 🔐 Login Page and Register Page
-![Login](assets/Screenshot 2025-04-24 211200.png)
+<p align="center">
+  <img src="assets/Screenshot%202025-04-24%20211200.png"/>
+  
+</p>
 
-![Register](assects/Screenshot 2025-04-24 211221.png)
+<p>
+<img src="assets/Screenshot%202025-04-24%20211221.png"/>
+</p>
+#### ➕ Add Borrower, Lend Item and Return Item  
+<p align="center">
+  <img src="assets/Screenshot%202025-04-24%20211338.png"/>
+</p>
 
-#### ➕ Add Borrower  
-![Add Borrower](assets/Screenshot 2025-04-24 211338.png)
+#### 📦 Views all Items and profile 
+<p align="center">
+  <img src="assets/Screenshot%202025-04-24%20211453.png" />
+</p>
 
-#### 📦 Lend Item  
-![Lend Item](assets/Screenshot 2025-04-24 211453.png)
-
-#### 🔁 Return Item  
-![Return Item](assets/Screenshot 2025-04-24 211521.png)
+#### 🔁 Settings 
+<p align="center">
+  <img src="assets/Screenshot%202025-04-24%20211521.png" "/>
+</p>
 
 
